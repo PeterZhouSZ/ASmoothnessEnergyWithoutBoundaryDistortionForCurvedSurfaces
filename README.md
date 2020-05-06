@@ -20,7 +20,7 @@ In order to install and compile the code, you have to
 - Use ccmake to choose between Release and Debug compilation modes.
 - make
 
-The result of this compilation is a MEX file which can be used in MATLAB to build the curved Hessian matrix in cpp_interface/build/applications/Mex
+The result of this compilation is a MEX file which can be used in MATLAB to build the curved Hessian matrix in cpp_interface/build/applications/Mex .
 The examples from the paper are separate MATLAB scripts in the directory MATLAB_experiments.
 
 
