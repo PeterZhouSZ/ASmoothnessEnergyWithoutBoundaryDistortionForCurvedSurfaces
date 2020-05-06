@@ -8,7 +8,9 @@ The following software is needed to run the code:
 - [gptoolbox](https://github.com/alecjacobson/gptoolbox) version as of January 10, 2020 (make sure to add it to your MATLAB path)
 - MATLAB
 - OpenGL
+
 The code is intended to be run on macOS X 10.15.4 with the clang 11.0.3 and MATLAB_R2020a. This code relies heavily on the [libigl](https://github.com/libigl/libigl) library as of January 10, 2020. It might run on other configurations too, but it has not been tested on any of them.
+
 
 In order to install and compile the code, you have to
 - Recursively clone this repository.
