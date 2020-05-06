@@ -13,7 +13,7 @@ The code is intended to be run on macOS X 10.15.4 with the clang 11.0.3 and MATL
 
 
 In order to install and compile the code, you have to
-- Recursively clone this repository.
+- Recursively clone this repository (git clone --recursive).
 - Go to into the main directory of the cloned repository.
 - cd cpp_interface
 - mkdir build; cd build; cmake ..
